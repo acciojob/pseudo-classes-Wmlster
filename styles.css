@@ -40,3 +40,8 @@ li:nth-child(odd){
 li:nth-child(3){
 	background-color:pink;
 }
+
+article>p:first-child{
+	background-color:rgb(135, 206, 235);
+	color:black;
+}
